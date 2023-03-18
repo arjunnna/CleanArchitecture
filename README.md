@@ -1,4 +1,4 @@
-# CleanArchitecture
+# iOS-MVVM-CleanArchitecture
 This Repository is sample of Clean Archicture with MVVM Model for fetch the image list and display in a collectionview 
 
 
